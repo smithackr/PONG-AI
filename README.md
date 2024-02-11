@@ -4,8 +4,11 @@
 
 Developed A pong Clone and bot using NEAT algorithm that is nearly
 Impossible to beat..!!
-
-[![Video Preview]()](https://youtube.com/shorts/P_1a_tppOKw)
+<div style="text-align:center;">
+    
+ ![Demo](/Docs/pong.gif.gif)
+ 
+</div>
 
 
 
